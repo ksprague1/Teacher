@@ -5,4 +5,4 @@ Notes:
 
 Most of the code is in Teacher.py and Mountain_car.py
 
-dqn is the same as in stable baselines with a single line change
+dqn is the same as in stable baselines but with a single line change
